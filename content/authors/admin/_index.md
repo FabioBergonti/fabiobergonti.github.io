@@ -109,8 +109,8 @@ work:
     date_end: 2020-01-31
     summary: |
       - Design of model-based whole-body optimal control of jumping humanoid robots via inverse kinematics and dynamics.
-		  - Mechanical design of a flying humanoid robot powered with jet engines. 
-		  - Design of experimental setups for testing flying humanoid robots and jet engines.
+      - Mechanical design of a flying humanoid robot powered with jet engines. 
+      - Design of experimental setups for testing flying humanoid robots and jet engines.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
