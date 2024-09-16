@@ -130,6 +130,7 @@ skills:
         percent: 40
         icon: circle-stack
   - name: Software and Tools
+    items:
       - name: git
         description: ''
         percent: 60
