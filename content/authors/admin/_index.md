@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Fabio Bergonti
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Fabio
+last_name: Bergonti
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,165 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Istituto Italiano di Tecnologia
+    url: https://ami.iit.it/it/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:fabio.bergonti@iit.it'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/fabiobergonti
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/FabioBergonti
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/fabiobergonti
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=PfQ0AqsAAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-3455-8056
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Optimization
+  - Traveling
+  - Running
+  - Padel
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Computer Science
+    institution: University of Manchester
+    date_start: 2020-02-01
+    date_end: 2023-10-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Adaptive Morphology for Flying Multibody Robots.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://pure.manchester.ac.uk/ws/portalfiles/portal/283098404/FULL_TEXT.PDF'
+  - area: M.Sc. Mechanical Engineering
+    institution: Politecnico di Milano
+    date_start: 2016-10-01
+    date_end: 2018-12-01
     summary: |
-      GPA: 3.8/4.0
+      Thesis on whole-body controllers for jumping humanoid robots.
+  - area: B.Sc. Mechanical Engineering
+    institution: Politecnico di Milano
+    date_start: 2013-10-01
+    date_end: 2016-09-01
+    summary: ''
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Postdoctoral Researcher
+    company_name: Istituto Italiano di Tecnologia, Artificial and Mechanical Intelligence Laboratory
+    company_url: 'https://ami.iit.it/'
+    company_logo: 'assets/media/icons/ami.svg'
+    date_start: 2023-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Design of instantaneous whole-body controller for take-off maneuvers of flying humanoid robots.
+      - Co-tutor Ph.D. candidates and research fellows in areas of mechanical design and hardware optimization.
+  - position: Visiting Ph.D. Student
+    company_name: École polytechnique fédérale de Lausanne, Laboratory of Intelligent Systems
+    company_url: 'https://www.epfl.ch/labs/lis/'
+    company_logo: 'assets/media/icons/epfl.svg'
+    date_start: 2022-09-01
+    date_end: 2023-02-28
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Aerodynamic modeling and trajectory optimization for flying multibody drones.
+      - Hardware optimization of flying drones with morphing wings.
+  - position: Ph.D. Student
+    company_name: Istituto Italiano di Tecnologia, Artificial and Mechanical Intelligence Laboratory
+    company_url: 'https://ami.iit.it/'
+    company_logo: 'assets/media/icons/ami.svg'
+    date_start: 2020-02-01
+    date_end: 2023-06-30
+    summary: |
+      - Design, modeling, and control of rigid multibody systems with close kinematic chains.
+      - Development of an open source multibody simulator to test “morphing covers”.
+  - position: Research Fellow
+    company_name: Istituto Italiano di Tecnologia, Artificial and Mechanical Intelligence Laboratory
+    company_url: 'https://ami.iit.it/'
+    company_logo: 'assets/media/icons/ami.svg'
+    date_start: 2018-04-01
+    date_end: 2020-01-31
+    summary: |
+      - Design of model-based whole-body optimal control of jumping humanoid robots via inverse kinematics and dynamics.
+		  - Mechanical design of a flying humanoid robot powered with jet engines. 
+		  - Design of experimental setups for testing flying humanoid robots and jet engines.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 75
         icon: code-bracket
-      - name: Data Science
+      - name: Matlab/Simulink
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
-      - name: SQL
+      - name: C++
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+  - name: Software and Tools
+      - name: git
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: circle-stack
+      - name: Windows
         description: ''
         percent: 80
-        icon: camera
+        icon: circle-stack
+      - name: Linux/WLS2
+        description: ''
+        percent: 60
+        icon: circle-stack
+      - name: office
+        description: ''
+        percent: 95
+        icon: circle-stack
+      - name: LaTeX
+        description: ''
+        percent: 70
+        icon: circle-stack
+      - name: PTC Creo
+        description: ''
+        percent: 70
+        icon: circle-stack
 
 languages:
   - name: English
+    percent: 70
+  - name: Italian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Finalist of IEEE ICRA Best Paper Award on Unmanned Aerial Vehicles
+    url: https://2024.ieee-icra.org/awards-and-finalists/
+    date: '2024-05-01'
+    awarder: IEEE Robotics and Automation Society
+    icon: "assets/media/icons/ieee.svg"
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fabio Bergonti received the bachelor’s (Hons.) and master’s (Hons.) degrees in Mechanical Engineering from the Politecnico di Milano, Milan, Italy, in 2016 and 2018, respectively, and the Ph.D. degree in Computer Science from the University of Manchester, Manchester, U.K., in 2023. His Ph.D. research was conducted at the Italian Institute of Technology (IIT), Genoa, Italy, under the supervision of Daniele Pucci and Angelo Cangelosi.
+
+During his master’s studies, he conducted his thesis at the Dynamic Interaction and Control Laboratory at IIT, focusing on developing whole-body control algorithms to generate and control jumps of humanoid robots. From 2018 to 2019, he joined the iRonCub group as a Research Fellow, working on the design of a flying humanoid robot.
+
+During his Ph.D., he investigated techniques to integrate adaptive morphology in flying multibody robots. He conducted a Ph.D. secondment at the École Polytechnique Fédérale de Lausanne (EPFL) under the supervision of Dario Floreano, where he studied co-design techniques for drones with morphing capabilities. He is currently a Postdoctoral Researcher at the Artificial Mechanical Intelligence Laboratory at IIT, working on control algorithms for flying humanoid robots and innovative co-design strategies.
