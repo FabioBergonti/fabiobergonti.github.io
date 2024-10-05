@@ -131,6 +131,10 @@ skills:
         icon: circle-stack
   - name: Software and Tools
     items:
+      - name: CasADi
+        description: ''
+        percent: 60
+        icon: circle-stack
       - name: git
         description: ''
         percent: 60
