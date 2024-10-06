@@ -19,6 +19,6 @@ main:
   - name: Awards
     url: /#awards
     weight: 50
-  - name: Papers
-    url: /#papers
+  - name: Pubblications
+    url: /#publications
     weight: 60

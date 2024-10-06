@@ -175,15 +175,13 @@ awards:
     url: https://2024.ieee-icra.org/awards-and-finalists/
     date: '2024-05-01'
     awarder: IEEE Robotics and Automation Society
-    icon: "ieee.svg"
+    icon: 'ieee.svg'
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
 
 ## About Me
 
-Fabio Bergonti received the bachelor’s (Hons.) and master’s (Hons.) degrees in Mechanical Engineering from the Politecnico di Milano, Milan, Italy, in 2016 and 2018, respectively, and the Ph.D. degree in Computer Science from the University of Manchester, Manchester, U.K., in 2023. His Ph.D. research was conducted at the Italian Institute of Technology (IIT), Genoa, Italy, under the supervision of Daniele Pucci and Angelo Cangelosi.
+I earned my Bachelor's and Master's degrees in Mechanical Engineering from the Politecnico di Milano in 2016 and 2018, respectively. In 2023, I completed my Ph.D. in Computer Science at the University of Manchester, with research conducted at the Italian Institute of Technology (IIT) under the supervision of Daniele Pucci and Angelo Cangelosi. My master's thesis focused on developing whole-body control algorithms for humanoid robots. I later joined the iRonCub group as a Research Fellow, working on the design of a flying humanoid robot.
 
-During his master’s studies, he conducted his thesis at the Dynamic Interaction and Control Laboratory at IIT, focusing on developing whole-body control algorithms to generate and control jumps of humanoid robots. From 2018 to 2019, he joined the iRonCub group as a Research Fellow, working on the design of a flying humanoid robot.
-
-During his Ph.D., he investigated techniques to integrate adaptive morphology in flying multibody robots. He conducted a Ph.D. secondment at the École Polytechnique Fédérale de Lausanne (EPFL) under the supervision of Dario Floreano, where he studied co-design techniques for drones with morphing capabilities. He is currently a Postdoctoral Researcher at the Artificial Mechanical Intelligence Laboratory at IIT, working on control algorithms for flying humanoid robots and innovative co-design strategies.
+During my Ph.D., I explored adaptive morphology techniques for flying multibody robots and conducted a secondment at the École Polytechnique Fédérale de Lausanne (EPFL) under the supervision Dario Floreano, studying co-design for morphing drones. I am currently a Postdoctoral Researcher at Artificial Mechanical Intelligence Laboratory (IIT), focusing on control algorithms for flying humanoid robots and innovative co-design strategies.
