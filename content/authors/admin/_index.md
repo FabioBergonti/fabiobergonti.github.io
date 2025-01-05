@@ -172,13 +172,24 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Finalist of IEEE ICRA Best Paper Award on Unmanned Aerial Vehicles
+  - title: Finalist of IEEE ICRA Best Paper Award on Unmanned Aerial Vehicles 2024
     url: https://2024.ieee-icra.org/awards-and-finalists/
     date: '2024-05-01'
     awarder: IEEE Robotics and Automation Society
     icon: 'ieee.svg'
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Winner of master thesis award "Prof. Ottorino Sesini" 2018
+    url: https://polimi.it/fileadmin/user_upload/allegati_borse_premi/1558076592_Bando-Sesini%2018ENGp.pdf
+    date: '2019-11-01'
+    awarder: Politecnico di Milano
+  - title: Finalist best interactive presentation at IRIM 2019
+    url: https://proceedings.i-rim.it/content/details/2019/4814306
+    date: '2019-10-01'
+    awarder: Conferenza Italiana di Robotica e Macchine Intelligenti
+  - title: Winner of "Le migliori matricole dell'A.A. 2012/2013" (best freshman students)
+    date: '2014-09-01'
+    awarder: Politecnico di Milano
+
+
 ---
 
 ## About Me
