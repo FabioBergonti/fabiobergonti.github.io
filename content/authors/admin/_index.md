@@ -183,6 +183,4 @@ awards:
 
 ## About Me
 
-I earned my Bachelor's and Master's degrees in Mechanical Engineering from the Politecnico di Milano in 2016 and 2018, respectively. In 2023, I completed my Ph.D. in Computer Science at the University of Manchester, with research conducted at the Italian Institute of Technology (IIT) under the supervision of Daniele Pucci and Angelo Cangelosi. My master's thesis focused on developing whole-body control algorithms for humanoid robots. I later joined the iRonCub group as a Research Fellow, working on the design of a flying humanoid robot.
-
-During my Ph.D., I explored adaptive morphology techniques for flying multibody robots and conducted a secondment at the École Polytechnique Fédérale de Lausanne (EPFL) under the supervision Dario Floreano, studying co-design for morphing drones. I am currently a Postdoctoral Researcher at Artificial Mechanical Intelligence Laboratory (IIT), focusing on control algorithms for flying humanoid robots and innovative co-design strategies.
+I am a Postdoctoral Researcher at the Artificial Mechanical Intelligence Laboratory (Istituto Italiano di Tecnologia), currently focused on developing new ankle mechanisms for the humanoid ergoCub robot. My expertise includes whole-body control algorithms, hardware optimization, mechanical design, trajectory optimization, and modeling of aerial and multibody robots.
