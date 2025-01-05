@@ -45,11 +45,10 @@ profiles:
     url: https://orcid.org/0000-0003-3455-8056
 
 interests:
-  - Robotics
-  - Optimization
-  - Traveling
-  - Running
-  - Padel
+  - 🤖 Robotics
+  - 📈 Optimization
+  - ✈️ Traveling
+  - 🏃🏻 Sports
 
 education:
   - area: Ph.D. Computer Science
@@ -130,6 +129,8 @@ skills:
         percent: 40
         icon: circle-stack
   - name: Software and Tools
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: CasADi
         description: ''
