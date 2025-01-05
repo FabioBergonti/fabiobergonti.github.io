@@ -1,9 +1,6 @@
 ---
 title: 'Modeling, Identification and Control of Model Jet Engines for Jet Powered Robotics'
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
   - Giuseppe L’Erario
   - Luca Fiorio
@@ -14,26 +11,18 @@ authors:
   - Silvio Traversaro
   - Daniele Pucci
 
-# # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
-
 date: '2020'
-doi: ''
+doi: '10.1109/LRA.2020.2970572'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+publishDate: '2020-04-02T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['Journal article']
 
-# Publication name and optional abbreviated publication name.
 publication:  IEEE Robotics and Automation Letters
-# publication_short: In *ICRA*
 
 abstract: > 
   The paper contributes towards the modeling, identification, and control of model jet engines. We propose a nonlinear, second order model in order to capture the model jet engines governing dynamics. The model structure is identified by applying sparse identification of nonlinear dynamics, and then the parameters of the model are found via gray-box identification procedures. Once the model has been identified, we approached the control of the model jet engine by designing two control laws. The first is based on the classical Feedback Linearization technique, while the second one on the Sliding Mode control method. The overall methodology has been verified by modeling, identifying and controlling two model jet engines, i.e. P100-RX and P220-RXi developed by JetCat, which provide a maximum thrust of 100 N and 220 N, respectively.
@@ -55,10 +44,10 @@ url_pdf: 'https://ieeexplore.ieee.org/document/8977379'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://ami.iit.it/it/aerial-humanoid-robotics'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/DJv5aXLhQIM'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
