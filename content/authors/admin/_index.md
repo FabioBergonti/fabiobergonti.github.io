@@ -55,22 +55,22 @@ education:
     institution: University of Manchester
     date_start: 2020-02-01
     date_end: 2023-10-01
-    summary: |
-      Thesis on Adaptive Morphology for Flying Multibody Robots.
-    button:
-      text: 'Read Thesis'
-      url: 'https://pure.manchester.ac.uk/ws/portalfiles/portal/283098404/FULL_TEXT.PDF'
+    # summary: |
+    #   Thesis on Adaptive Morphology for Flying Multibody Robots.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://pure.manchester.ac.uk/ws/portalfiles/portal/283098404/FULL_TEXT.PDF'
   - area: M.Sc. Mechanical Engineering
     institution: Politecnico di Milano
     date_start: 2016-10-01
     date_end: 2018-12-01
-    summary: |
-      Thesis on whole-body controllers for jumping humanoid robots.
+    # summary: |
+    #   Thesis on whole-body controllers for jumping humanoid robots.
   - area: B.Sc. Mechanical Engineering
     institution: Politecnico di Milano
     date_start: 2013-10-01
     date_end: 2016-09-01
-    summary: ''
+    # summary: ''
 
 work:
   - position: Postdoctoral Researcher

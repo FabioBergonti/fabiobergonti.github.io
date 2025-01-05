@@ -40,6 +40,10 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
+links:
+- name: "arXiv"
+  url: "https://arxiv.org/pdf/1909.13296"
+
 url_pdf: 'https://ieeexplore.ieee.org/document/8977379'
 url_code: ''
 url_dataset: ''
